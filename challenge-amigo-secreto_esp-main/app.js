@@ -66,3 +66,5 @@ function mostrarResultado(indice,texto){
         resultado.innerHTML = texto;
     }
 }
+//falta funcion para borrar amigo secreto 
+// falta reiniciar juegoS
